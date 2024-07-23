@@ -119,11 +119,11 @@
             "enabled": false
         },
         "nativeOTA": {
-            "enabled": false
+            "enabled": true
         }
     },
     "hermesEnabled": false,
-    "appVersion": "4.0.0",
-    "buildNumber": 4,
+    "appVersion": "5.0.0",
+    "buildNumber": 5,
     "runtimeUrl": "https://warrantyboatlifestyle-dev.apps.ap-2a.mendixcloud.com"
 }
