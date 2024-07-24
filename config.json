@@ -123,7 +123,7 @@
         }
     },
     "hermesEnabled": false,
-    "appVersion": "5.0.0",
-    "buildNumber": 5,
+    "appVersion": "6.0.0",
+    "buildNumber": 6,
     "runtimeUrl": "https://warrantyboatlifestyle-dev.apps.ap-2a.mendixcloud.com"
 }
