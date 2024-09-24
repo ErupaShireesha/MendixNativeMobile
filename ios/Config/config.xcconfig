@@ -3,7 +3,7 @@ PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
 BUNDLE_DISPLAY_NAME = TestingInward
 BUNDLE_IDENTIFIER = com.boAtLifeStyle.TestingInwardApp
 
-RUNTIME_URL = https:\/\/warrantyboatlifestyle-accp.apps.ap-2a.mendixcloud.com
+RUNTIME_URL = https:\/\/warrantyboatlifestyle.apps.ap-2a.mendixcloud.com
 
 PRODUCT_NAME = App
 
