@@ -1,10 +1,8 @@
 PRODUCT_BUNDLE_IDENTIFIER = $(BUNDLE_IDENTIFIER)$(BUNDLE_IDENTIFIER_APPEND)
 
-BUNDLE_DISPLAY_NAME = TestingInward
-BUNDLE_IDENTIFIER = com.boAtLifeStyle.TestingInwardApp
+BUNDLE_DISPLAY_NAME = NativeTemplate
+BUNDLE_IDENTIFIER = com.mendix.native.template
 
-RUNTIME_URL = https:\/\/warrantyboatlifestyle.apps.ap-2a.mendixcloud.com
+RUNTIME_URL = http:\/\/localhost:8080
 
-PRODUCT_NAME = App
-
-HERMES_ENABLED = NO
+PRODUCT_NAME = nativeTemplate
